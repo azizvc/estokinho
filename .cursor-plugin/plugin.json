@@ -1,0 +1,26 @@
+{
+  "name": "estokinho",
+  "displayName": "Estokinho",
+  "version": "1.0.0",
+  "description": "Consulta e atualiza estoque, vendas, clientes, despesas e NFC-e da conta Estokinho no Cursor e no Grok Bot.",
+  "author": {
+    "name": "Estokinho"
+  },
+  "homepage": "https://estokinho.com.br",
+  "repository": "https://github.com/azizvc/estokinho",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "estokinho",
+    "estoque",
+    "vendas",
+    "pdv",
+    "nfce",
+    "mei",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": ["estoque", "vendas", "nfce", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
